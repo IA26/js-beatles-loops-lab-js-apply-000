@@ -12,7 +12,6 @@ function theBeatlesPlay(musicians, instruments) {
   return Beatles;
 }
 
-theBeatlesPlay(musicians,instruments);
 
 
 function johnLennonFacts(facts) {
